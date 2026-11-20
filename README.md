@@ -1,52 +1,57 @@
- <!-- GitHub Profile README -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:0891b2&height=180&section=header&text=Shlok%20Pandey&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=B.Tech%20IT%20Student%20%7C%20Java%20%26%20DSA&descAlignY=58&descSize=16" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=190&section=header&text=SHLOK%20PANDEY&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20IT%20Student%20%7C%20Java%20Developer%20in%20Progress&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
 
-### Hi there! 👋 Welcome to my GitHub
+### Hi, I'm Shlok 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/shlok-pandey-b27597388/)
-[![LeetCode](https://img.shields.io/badge/LeetCode-Profile-FFA116?style=flat&logo=leetcode&logoColor=black)](https://leetcode.com/u/codewithshlok1403/)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-Profile-2F8D46?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/profile/shlokpan2dcy)
+**Learning. Building. Improving.**
+
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/codewithshlok1403)
 
 </div>
 
-## 👨‍💻 About Me
+---
 
-- 🎓 B.Tech IT Student
-- ☕ Practicing **Java & Data Structures and Algorithms**
-- 🌱 Learning **Web Development**
-- 💡 Interested in building useful projects and improving problem-solving skills.
+### 👨‍💻 About Me
 
-## 🛠️ Tech Stack
+- 🎓 B.Tech Student in Information Technology
+- ☕ Learning **Java & Data Structures and Algorithms**
+- 🌐 Exploring **Web Development**
+- 🧩 Practicing problem-solving through coding.
+- 🚀 Interested in building practical projects.
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,git,github,vscode,idea&perline=6" />
-</p>
-
-## 📊 GitHub Statistics
+### ⚡ Tech Stack
 
 <div align="center">
 
-<img height="160" src="https://github-readme-stats.vercel.app/api?username=codewithshlok1403&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" />
-
-<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshlok1403&layout=compact&theme=tokyonight&hide_border=true" />
+<img src="https://skillicons.dev/icons?i=c,java,python,html,css,js,mysql,git,github,vscode,idea&perline=6" />
 
 </div>
 
-## 🧩 LeetCode Progress
+### 📈 GitHub Overview
 
 <div align="center">
 
-<img src="https://leetcard.jacoblin.cool/codewithshlok1403?theme=dark&font=Baloo&ext=heatmap" width="90%" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=codewithshlok1403&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" />
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=codewithshlok1403&layout=compact&theme=tokyonight&hide_border=true" />
 
 </div>
 
-## 🎯 Current Focus
-
-`Java` · `DSA` · `Problem Solving` · `Web Development`
+### 🎯 Currently Focusing On
 
 <div align="center">
+
+`Java` &nbsp; `DSA` &nbsp; `Problem Solving` &nbsp; `Web Development`
+
+</div>
+
+---
+
+<div align="center">
+
+**Thanks for visiting! ⭐**
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0891b2,100:0f172a&height=100&section=footer" width="100%" />
 
