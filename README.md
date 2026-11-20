@@ -2,7 +2,7 @@
 <div align="center">
 
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=200&section=header&text=SHLOK%20PANDEY&fontSize=52&fontColor=ffffff&fontAlign=50&fontAlignY=38&desc=B.Tech%20IT%20Student%20%7C%20Java%20%26%20DSA&descSize=17&descAlign=50&descAlignY=60" width="100%" alt="Shlok Pandey"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,50:164e63,100:0891b2&height=190&section=header&text=SHLOK%20PANDEY&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=B.Tech%20IT%20Student%20%7C%20Java%20Developer%20in%20Progress&descSize=15&descAlignY=60&animation=fadeIn" width="100%" />
 
 ### Hey there! I'm Shlok 👋
 
